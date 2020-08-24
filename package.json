@@ -1,23 +1,23 @@
 {
   "name": "simon-dice",
   "version": "1.0.0",
-  "description": "Juego de simon dice para r/argentina programa",
-  "main": "index.html",
+  "description": "juego de simon dice",
+  "main": "simon-dice-mio.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/r-argentina-programa/simon-dice.git"
+    "url": "git+https://github.com/franco646/simon-dice.git"
   },
-  "author": "",
+  "author": "franco",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/r-argentina-programa/simon-dice/issues"
+    "url": "https://github.com/franco646/simon-dice/issues"
   },
-  "homepage": "https://github.com/r-argentina-programa/simon-dice#readme",
+  "homepage": "https://github.com/franco646/simon-dice#readme",
   "dependencies": {
-    "bootstrap": "^4.4.1",
-    "jquery": "^3.4.1"
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1"
   }
 }

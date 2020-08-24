@@ -1,0 +1,26 @@
+.cuadro {
+    height: 200px;
+    opacity: 0.5;
+    transition: opacity 300ms;
+    border: 3px solid black;
+}
+
+#empezar {
+    margin-top: 5px;
+}
+
+#cuadro-1 {
+    background-color: red;
+}
+
+#cuadro-2 {
+    background-color: blue;
+}
+
+#cuadro-3 {
+    background-color: yellow;
+}
+
+#cuadro-4 {
+    background-color: green;
+}
